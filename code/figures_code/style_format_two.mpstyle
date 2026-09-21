@@ -1,0 +1,31 @@
+
+font.family: serif
+text.usetex: True
+font.size: 9
+
+axes.titlesize: 10
+axes.labelsize: 9
+axes.linewidth: 0.8
+axes.grid: False
+
+xtick.direction: out
+ytick.direction: out
+xtick.major.size: 3.5
+ytick.major.size: 3.5
+xtick.minor.size: 1.5
+ytick.minor.size: 1.5
+xtick.top: False
+ytick.right: False
+
+lines.linewidth: 1.2
+lines.markersize: 3.5
+
+legend.frameon: False
+legend.fontsize: 8
+
+figure.figsize: 3.0, 2.4
+figure.autolayout: True
+
+savefig.dpi: 300
+savefig.format: pdf
+savefig.bbox: tight
