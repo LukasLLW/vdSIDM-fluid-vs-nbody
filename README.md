@@ -1,6 +1,6 @@
 # On the Applicability of Gravothermal Fluid Approaches for Velocity Dependent SIDM: A Direct Comparison with N-body Simulations
 
-This repository serves as a summary of the most important code elements from my bachelor's thesis.
+This repository serves as a summary of the most important code elements from my [bachelor's thesis](https://dmgw.space/pdfs/thesis/bachelor_thesis_lukas_lehmann.pdf).
 
 ---
 
